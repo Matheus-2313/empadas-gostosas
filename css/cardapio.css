@@ -1,0 +1,21 @@
+#body {
+    background-color: white;
+}
+#empadas {
+    background-color: orange;
+    color: orangered;
+    text-align: center;
+    padding: 10px;
+}
+#liks {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 15px;
+    }
+#frango {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    margin-left: 10px;
+}
